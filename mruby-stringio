@@ -1,0 +1,8 @@
+name: mruby-stringio
+description: StringIO class for mruby
+author: ksss
+website: https://github.com/ksss/mruby-stringio
+protocol: git
+repository: https://github.com/ksss/mruby-stringio.git
+dependencies:
+- mruby-errno
